@@ -1,4 +1,4 @@
-module github.com/Freyzan2006/QH-backend-auth-protos
+module  github.com/Freyzan2006/QH-backend-auth-protos
 
 go 1.21
 
